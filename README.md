@@ -4,8 +4,9 @@ Training material related to utilizing dpgs, open-source and open-data for NMHSs
 
 ## Topics
 
-### Linux
+### Linux shell
 
+Material: https://swcarpentry.github.io/shell-novice/
 
 ### Git
 
