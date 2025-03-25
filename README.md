@@ -21,4 +21,11 @@ Material: https://carpentries-incubator.github.io/docker-introduction/
 
 ### Data formats: NetCDF and Grib
 
+#### NetCDF with CF-convention
+
+CF-convention: https://cfconventions.org/cf-conventions/v1.6.0/cf-conventions.html
+
+NetCDF resources:
+- Intro video: https://www.youtube.com/watch?v=K1_8EqCJlwo
+
 
